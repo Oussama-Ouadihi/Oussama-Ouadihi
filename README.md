@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Oussama Ouadihi
+# 👋 Hi, I’m Oussama 
 
-**Third‑year Software Engineering student @ University of Calgary** 🔧👨‍💻  
-**Seeking** a 12–16 month SWE internship starting May 2025  
+**Software Engineering student @ University of Calgary** 🔧👨‍💻  
+
 
 - 🎯 Passionate about **cybersecurity**, **AI/ML**, and **embedded systems**  
 - ⚡️ Ask me about **Quantum Computing**, **Network security**, or **Why Hakimi is the best Right-Back in history of Football**  
@@ -45,10 +45,10 @@
 
 | Project                                                                                           | Tech & Highlights                                                      |
 | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [AI‑Powered‑F1‑Telemetry‑Web‑App](https://github.com/Oussama-Ouadihi/AI_F1_Telemetry_Analysis_Web) | Full‑stack, GPT‑4o analysis, FastF1 live data, JWT auth                |
+| [AI‑Powered‑F1‑Telemetry‑Web‑App](https://github.com/NavjotSaroa/SENG401-TelemetryProject)        | Full‑stack, GPT‑4o analysis, FastF1 live data, JWT auth                |
 | [KeyLogger](https://github.com/Oussama-Ouadihi/KeyLogger)                                         | Python network listener, real‑time keystroke capture, security best‑practices |
 | [museum-project-l01-35](https://github.com/ENSF-300-F23/museum-project-l01-35)                    | Python/Tkinter GUI, MySQL RBAC, CRUD operations                        |
-| [Flight Manager Application](https://github.com/Oussama-Ouadihi/Flight-Manager-App)                | C++ backend, dynamic seat maps, SQL integration                        |
+
 
 ---
 

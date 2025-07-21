@@ -1,3 +1,11 @@
+<!-- Centered header with GIF -->
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlmd294NG53c3JhZWt1ZW0yY2QyaW9xeGVkNmJhcmtldnRydHcxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" 
+       alt="Coding GIF" 
+       width="300" 
+       style="border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+</p>
+
 # 👋 Hi, I’m Oussama 
 
 **Software Engineering student @ University of Calgary** 🔧👨‍💻  

@@ -43,7 +43,7 @@
 
 ### 📈 GitHub Stats
 
-[![Oussama’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Oussama-Ouadihi&show_icons=true&theme=default)](https://github.com/Oussama-Ouadihi)  
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Ouadihi&layout=compact)](https://github.com/Oussama-Ouadihi)
 
 ---
